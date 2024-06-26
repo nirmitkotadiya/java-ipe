@@ -5,7 +5,7 @@
 This repository contains Java programs for various programming tasks.
 
 ## Task 1: Calculate the Area of a Circle, Area and Perimeter of Rectangle, Area of Triangle
-- [Link to Program 1](#https://github.com/nirmitkotadiya/java-ipe/blob/main/1-10/IPE1.java)
+- [Link to Program 1](1-10/IPE1.java)
 
 ## Task 2: Perform Arithmetic Operations on Two Numbers
 
