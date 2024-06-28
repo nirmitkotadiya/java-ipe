@@ -7,7 +7,7 @@ class IPE1 {
 
     // l * w
     public static int areaRectangle(int l, int w) {
-        return l + w;
+        return l * w;
     }
 
     // 2*(l+w)
