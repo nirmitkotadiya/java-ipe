@@ -11,7 +11,7 @@ public class IPE23 {
 
         double sum = 0.0;
         int numerator = 1;
-        int denominator = 1;
+        int denominator = 3;
         for (int i = 1; i <= num; i++) {
             if (i == 1) {
                 sum += numerator;
